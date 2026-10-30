@@ -1,0 +1,18 @@
+[
+    {
+        "entity_name": "customer",
+        "description": "Demo customer",
+        "fields": [
+            {
+                "field_name": "customer_id",
+                "field_data_type": "AutoPK",
+                "attributes": {}
+            },
+            {
+                "field_name": "customer_name",
+                "field_data_type": "CharacterString",
+                "attributes": {}
+            }
+        ]
+    }
+]
